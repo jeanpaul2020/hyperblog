@@ -13,5 +13,6 @@ En este Repositorio hay algunas cosas base:
 *Y un poco de todo...
 *creado por jpaulo
 *Incluye aprendizaje 
+*pa todo el mundo
 
 y como  recordatorio: **este readme es una joda ** diseñado para ejemplificar
