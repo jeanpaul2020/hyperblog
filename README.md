@@ -11,5 +11,6 @@ En este Repositorio hay algunas cosas base:
 *El love por la buenas practicas
 *Trucasos locos para memorizar
 *Y un poco de todo...
+*creado por jpaulo
 
 y como  recordatorio: **este readme es una joda ** diseñado para ejemplificar
